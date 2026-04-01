@@ -56,6 +56,11 @@
 ## 🎨 结果案例
 参考 case 文件夹里面的案例
 
+<img width="2388" height="320" alt="case1" src="case/case1.png" />
+<img width="2388" height="320" alt="case2" src="case/case2.png" />
+<img width="2388" height="320" alt="case3" src="case/case3.png" />
+<img width="2388" height="320" alt="case4" src="case/case4.png" />
+
 <hr>
 
 ## 🎯 功能介绍
