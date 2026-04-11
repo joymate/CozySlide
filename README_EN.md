@@ -4,7 +4,7 @@
 <img width="268" height="68" alt="final1" src="docs/logo/img.png" />
 <hr>
 
-<b>A native AI PPT generation app built on nano banana 2<br></b>
+<b>A native AI Slide generation app built on nano banana pro<br></b>
 
 <b>Start from an idea to generate outlines and page descriptions, then refine content, layout, and style. Support for reference files, asset reuse, and template reuse makes the entire presentation workflow easier and more controllable.</b>
 
@@ -27,7 +27,7 @@
 
 Have you ever found yourself in this situation: a presentation due tomorrow, but the slides are still blank; countless great ideas in your head, yet the tedious layout and design work drains all your enthusiasm?
 
-We wanted to create presentations that are both professional and visually appealing in a short amount of time. Traditional AI PPT generation tools satisfy the need for “speed,” but still have the following shortcomings:
+We wanted to create presentations that are both professional and visually appealing in a short amount of time. Traditional AI Slide generation tools satisfy the need for “speed,” but still have the following shortcomings:
 
 - 1️⃣ Only preset templates are available, making it difficult to adjust styles flexibly  
 - 2️⃣ Low freedom, making multi‑round revisions hard to accomplish  
@@ -35,21 +35,21 @@ We wanted to create presentations that are both professional and visually appeal
 - 4️⃣ Low‑quality assets that lack relevance to the content  
 - 5️⃣ Disconnected text‑image layouts, resulting in poor design coherence  
 
-These issues make it hard for traditional tools to achieve both “efficiency” and “aesthetics.” Even though some products call themselves “Vibe PPT,” in practice they still fall short of a true “Vibe.”
+These issues make it hard for traditional tools to achieve both “efficiency” and “aesthetics.” Even though some products call themselves “Vibe Slide,” in practice they still fall short of a true “Vibe.”
 
-🧠 Then came the **Nano Banana 2 🍌 model**, which opened up new possibilities. We experimented with generating PPT pages using Banana 2 and found that the results were excellent in terms of quality, visual appeal, and style consistency. It can almost precisely render all the text specified in the prompt while strictly following the style of the reference image. So why not build a native AI application around Banana 2?
+🧠 Then came the **Nano Banana Pro 🍌 model**, which opened up new possibilities. We experimented with generating slide pages using Banana Pro and found that the results were excellent in terms of quality, visual appeal, and style consistency. It can almost precisely render all the text specified in the prompt while strictly following the style of the reference image. So why not build a native AI application around Nano Banana Pro?
 
 ---
 
 ## 👨‍💻⚡ Use Cases
 
 1. **Beginners**: zero‑threshold generation of beautiful PPTs without design experience, eliminating the hassle of choosing templates  
-2. **PPT Professionals**: quickly gather design inspiration from AI‑generated layouts and text‑image compositions  
+2. **Slide Professionals**: quickly gather design inspiration from AI‑generated layouts and text‑image compositions  
 3. **Educators**: efficiently convert teaching materials into illustrated lesson plans, improving classroom presentation  
 4. **Students**: rapidly complete assignments and presentations, focusing on content rather than formatting and beautification  
 5. **Business Users**: fast visualization of business proposals, product introductions, etc., with easy adaptation to multiple scenarios  
 
-> 🎯 **Goal: lower the barrier to PPT creation, enabling everyone to effortlessly produce beautiful, professional presentations**
+> 🎯 **Goal: lower the barrier to slides creation, enabling everyone to effortlessly produce beautiful, professional presentations**
 
 <hr>
 
@@ -79,7 +79,7 @@ Support three starting modes: **Idea**, **Outline**, and **Page Description**, c
 ### 3. “Vibe”‑Style Natural Language Modification
 No longer constrained by complex menus – just give modification instructions in **natural language**.
 - **Local redraw**: verbally modify unsatisfactory areas (e.g., “change this chart to a pie chart”).
-- **Full‑page optimization**: generate high‑definition, style‑consistent pages powered by Nano Banana 2🍌.
+- **Full‑page optimization**: generate high‑definition, style‑consistent pages powered by Nano Banana Pro🍌.
 
 ### 4. Ready‑to‑Use Export Formats
 - **Multi‑format export**: export standard **PPTX** or **PDF** with one click.
