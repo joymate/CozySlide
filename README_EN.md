@@ -4,7 +4,7 @@
 <img width="268" height="68" alt="final1" src="docs/logo/img.png" />
 <hr>
 
-<b>A native AI Slide generation app built on nano banana pro<br></b>
+<b>A native AI Slide generation app built on Nano Banana Pro🍌<br></b>
 
 <b>Start from an idea to generate outlines and page descriptions, then refine content, layout, and style. Support for reference files, asset reuse, and template reuse makes the entire presentation workflow easier and more controllable.</b>
 
