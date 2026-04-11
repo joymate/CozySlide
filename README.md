@@ -4,7 +4,7 @@
 <img width="268" height="68" alt="final1" src="docs/logo/img.png" />
 <hr>
 
-<b>一个基于Nano Banana Pro的原生AI PPT生成应用<br></b>
+<b>一个基于Nano Banana Pro的原生AI PPT生成应用🍌<br></b>
 
 <b> 从一句想法开始生成大纲与页面描述，再继续优化内容、版式与风格。支持参考文件、资产复用与模板复用，让整个演示流程更轻松，也更容易掌控。 </b>
 
