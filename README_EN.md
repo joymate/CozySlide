@@ -161,11 +161,13 @@ No longer constrained by complex menus – just give modification instructions i
 <hr>
 
 ## Community
-Join our WeChat group for communication and support.
+Join our QQ group for communication and support.
 
 Feel free to suggest new features or report issues – I will respond!
 
-<img width="288" alt="image" src="docs/logo/group.jpg" />
+Welcome to join the QQ group for questions and inquiries.
+
+<img width="288" alt="image" src="docs/logo/image.jpng" />
 
 <hr>
 
