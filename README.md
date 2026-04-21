@@ -161,11 +161,12 @@
 <hr>
 
 ## 交流群
-为了方便大家沟通互助，建此微信交流群.
+为了方便大家沟通互助，建此QQ交流群.
 
 欢迎提出新功能建议或反馈，本人也会响应大家问题！
 
-<img width="288" alt="image" src="docs/logo/group.jpg" />
+欢迎使用QQ扫码加群！
+<img width="288" alt="image" src="docs/logo/image.png" />
 
 
 <hr>
