@@ -167,7 +167,7 @@ Feel free to suggest new features or report issues – I will respond!
 
 Welcome to join the QQ group for questions and inquiries.
 
-<img width="288" alt="image" src="docs/logo/image.jpng" />
+<img width="288" alt="image" src="docs/logo/image.png" />
 
 <hr>
 
