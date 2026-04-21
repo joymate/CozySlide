@@ -165,7 +165,8 @@
 
 欢迎提出新功能建议或反馈，本人也会响应大家问题！
 
-欢迎使用QQ扫码加群！
+欢迎加入QQ群咨询提问！
+
 <img width="288" alt="image" src="docs/logo/image.png" />
 
 
